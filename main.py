@@ -1,5 +1,3 @@
-# let's do this
-
 MENU = {
     "espresso": {
         "ingredients": {
